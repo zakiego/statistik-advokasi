@@ -1,11 +1,11 @@
 {
-  "tanggal": "2022-11-15",
-  "total_laporan_masuk": "4983",
+  "tanggal": "2022-12-09",
+  "total_laporan_masuk": "4987",
   "insentif": {
-    "jumlah_laporan_insentif": "4923",
+    "jumlah_laporan_insentif": "4927",
     "jenis_kendala_insentif": [
       {
-        "Insentif belum diterima": "4155"
+        "Insentif belum diterima": "4156"
       },
       {
         "Insentif dipotong": "226"
@@ -14,7 +14,7 @@
         "Insentif terlambat dicairkan (tidak sesuai jadwal)": "370"
       },
       {
-        "Insentif tidak lagi diterima (terhenti)": "85"
+        "Insentif tidak lagi diterima (terhenti)": "88"
       },
       {
         "Lainnya": "87"
