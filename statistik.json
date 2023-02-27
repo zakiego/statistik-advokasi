@@ -1,11 +1,11 @@
 {
-  "tanggal": "2023-02-07",
-  "total_laporan_masuk": "5021",
+  "tanggal": "2023-02-27",
+  "total_laporan_masuk": "5024",
   "insentif": {
-    "jumlah_laporan_insentif": "4961",
+    "jumlah_laporan_insentif": "4964",
     "jenis_kendala_insentif": [
       {
-        "Insentif belum diterima": "4168"
+        "Insentif belum diterima": "4169"
       },
       {
         "Insentif dipotong": "227"
@@ -14,10 +14,10 @@
         "Insentif terlambat dicairkan (tidak sesuai jadwal)": "375"
       },
       {
-        "Insentif tidak lagi diterima (terhenti)": "101"
+        "Insentif tidak lagi diterima (terhenti)": "102"
       },
       {
-        "Lainnya": "90"
+        "Lainnya": "91"
       }
     ]
   },
